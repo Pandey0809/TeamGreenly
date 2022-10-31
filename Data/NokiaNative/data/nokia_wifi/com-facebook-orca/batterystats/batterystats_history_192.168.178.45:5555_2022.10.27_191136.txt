@@ -1,0 +1,24 @@
+Battery History (0% used, 444 used of 4096KB, 8 strings using 596):
+                    0 (14) RESET:TIME: 2022-10-27-19-11-37
+                    0 (1) 064 status=charging health=good plug=none temp=280 volt=4012 charge=2123 modemRailChargemAh=0 wifiRailChargemAh=0 +running +wake_lock +wifi_multicast +wifi_radio +screen phone_signal_strength=great +wifi +usb_data wifi_signal_strength=4 wifi_suppl=completed +ble_scan gps_signal_quality=good
+                    0 (2) 064 top=u0a173:"com.facebook.orca"
+                    0 (2) 064 user=0:"0"
+                    0 (2) 064 userfg=0:"0"
+                    0 (2) 064 tmpwhitelist=u0a32:"sync by top app"
+                 +1ms (2) 064 stats=0:"wakelock-change"
+                +57ms (2) 064 stats=0:"dump"
+             +2s753ms (2) 064 -usb_data +job=u0a173:"com.facebook.orca/com.facebook.conditionalworker.ConditionalWorkerService"
+             +2s929ms (2) 064 -job=u0a173:"com.facebook.orca/com.facebook.conditionalworker.ConditionalWorkerService"
+             +3s873ms (2) 064 +job=u0a173:"com.facebook.orca/com.facebook.messaging.livelocation.bindings.MessengerLiveLocationBooterService"
+             +3s882ms (2) 064 -job=u0a173:"com.facebook.orca/com.facebook.messaging.livelocation.bindings.MessengerLiveLocationBooterService"
+            +11s573ms (2) 064 -top=u0a173:"com.facebook.orca"
+            +11s573ms (2) 064 +usb_data +top=1000:"com.android.settings"
+            +12s943ms (1) 064 wifi_signal_strength=3
+            +15s956ms (1) 064 wifi_signal_strength=4
+            +16s984ms (2) 064 stats=0:"dump"
+
+Total cpu time reads: 0
+Batched cpu time reads: 0
+Batching Duration (min): 102
+All UID cpu time reads since the later of device start or stats reset: 12
+UIDs removed since the later of device start or stats reset: 1

@@ -1,0 +1,1008 @@
+<experiment>
+  <configHash>4f92b05dfdb07002ab8ea7da0472acb4</configHash>
+  <outputDir>/home/pi/android-runner/configs/batterystats/output/2022.10.27_135639/</outputDir>
+  <runsToRun>
+    </runsToRun>
+  <runsDone>
+    <run runId="44">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="139">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="131">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="174">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="88">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="9">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="7">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="81">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="10">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="195">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="157">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="117">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="31">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="29">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="162">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="141">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="38">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="149">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="111">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="41">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="93">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="185">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="164">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="114">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="73">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="126">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="175">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="109">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="143">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="116">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="127">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="189">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="123">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="39">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="172">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="156">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="154">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="91">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="85">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="59">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="56">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="115">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="48">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="148">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="150">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="107">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="152">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="134">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="108">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="82">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="61">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="177">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="110">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="180">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="132">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="136">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="76">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>17</runCount>
+    </run>
+  <run runId="120">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="67">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="27">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="96">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="113">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="194">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="80">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="57">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="163">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="186">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="89">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="192">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="187">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="197">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="32">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="170">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="137">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="103">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="169">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="19">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="94">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="71">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="60">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="13">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="12">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="196">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="99">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="158">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="24">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="2">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="69">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="21">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="95">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="191">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="193">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="37">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="178">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="128">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="198">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="100">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="112">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="125">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="77">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="20">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="50">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="62">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="43">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="66">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="182">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="155">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="161">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="133">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="176">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="105">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="144">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="83">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="84">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="25">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="33">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="55">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="87">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="171">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="135">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="18">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="98">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="26">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="51">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="140">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="46">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="121">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="122">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="45">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="23">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="28">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="3">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="181">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="40">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="92">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="90">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="78">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="68">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="184">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="167">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="106">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="102">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="49">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="142">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="179">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="101">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="36">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="166">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="47">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="118">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="4">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="34">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="64">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="199">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>20</runCount>
+    </run>
+  <run runId="22">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="30">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="1">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>2</runCount>
+    </run>
+    <run runId="119">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="168">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="159">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="79">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>20</runCount>
+    </run>
+    <run runId="190">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="74">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="6">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="14">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="35">
+      <device>nokia_wifi</device>
+      <path>com.google.android.gm</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="147">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>8</runCount>
+    </run>
+    <run runId="72">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="5">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="165">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="104">
+      <device>nokia_wifi</device>
+      <path>com.facebook.katana</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="153">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="52">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>13</runCount>
+    </run>
+    <run runId="17">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="0">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="54">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>15</runCount>
+    </run>
+    <run runId="53">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="11">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="146">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="130">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="173">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>14</runCount>
+    </run>
+    <run runId="188">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="15">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="145">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="16">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>17</runCount>
+    </run>
+    <run runId="65">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>6</runCount>
+    </run>
+    <run runId="124">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>5</runCount>
+    </run>
+    <run runId="183">
+      <device>nokia_wifi</device>
+      <path>com.google.android.youtube</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="151">
+      <device>nokia_wifi</device>
+      <path>com.netflix.mediaclient</path>
+      <runCount>12</runCount>
+    </run>
+    <run runId="97">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>18</runCount>
+    </run>
+    <run runId="138">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>19</runCount>
+    </run>
+    <run runId="63">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>4</runCount>
+    </run>
+    <run runId="86">
+      <device>nokia_wifi</device>
+      <path>com.twitter.android</path>
+      <runCount>7</runCount>
+    </run>
+    <run runId="42">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>3</runCount>
+    </run>
+    <run runId="70">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>11</runCount>
+    </run>
+    <run runId="75">
+      <device>nokia_wifi</device>
+      <path>com.zhiliaoapp.musically</path>
+      <runCount>16</runCount>
+    </run>
+    <run runId="160">
+      <device>nokia_wifi</device>
+      <path>com.spotify.music</path>
+      <runCount>1</runCount>
+    </run>
+    <run runId="129">
+      <device>nokia_wifi</device>
+      <path>com.google.android.keep</path>
+      <runCount>10</runCount>
+    </run>
+    <run runId="8">
+      <device>nokia_wifi</device>
+      <path>com.google.android.apps.maps</path>
+      <runCount>9</runCount>
+    </run>
+    <run runId="58">
+      <device>nokia_wifi</device>
+      <path>com.facebook.orca</path>
+      <runCount>19</runCount>
+    </run>
+    </runsDone>
+</experiment>

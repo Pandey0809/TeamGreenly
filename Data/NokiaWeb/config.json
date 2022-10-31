@@ -1,0 +1,46 @@
+{
+  "type": "web",
+  "devices": {
+    "nokia_wifi": {}
+  },
+  "repetitions": 20,
+  "randomization" : true,
+  "duration": 1000,
+  "browsers": ["chrome"],
+  "monkeyrunner_path": "/usr/bin/monkeyrunner",
+  "systrace_path": "/usr/lib/android-sdk/platform-tools/systrace/systrace.py",
+  "powerprofile_path": "android-runner/configs/batterystats/Scripts/power_profile_nokia.xml",
+  "usb_handler" : {
+                "enable_command"  : "uhubctl -l 1-1 -a 1",
+                "disable_command" : "uhubctl -l 1-1 -a 0"
+                },
+  "paths": [
+    "https://tiktok.com/foryou",
+"https://twitter.com/",
+"https://m.facebook.com/",
+"https://mail.google.com/",
+"https://keep.google.com/",
+"https://google.com/maps",
+"https://facebook.com/messages/",
+"https://netflix.com/",
+"https://open.spotify.com/",
+"https://youtube.com/"],
+  "profilers": {
+    "batterystats": {
+      "cleanup": true,
+      "python2_path": "/home/pi/.pyenv/versions/systrace/bin/python2.7"    
+}
+  },
+  "scripts": {
+    "interaction": [
+      {
+        "type": "python3",
+        "path": "Scripts/all2.py",
+        "timeout": 300000,
+        "logcat_regex": "some keyword"
+      }
+    ],
+    "after_run":"Scripts/after_run.py"
+  },
+  "time_between_run": 60000
+}

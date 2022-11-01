@@ -37,21 +37,40 @@ boxplot(dataNativeNokia["gmail"])
 boxplot(dataWebNokia["gmail"])
 
 #boxplot for full datasets
-NativePlot <- ggplot(stack(dataNativeNokia), aes(x = ind, y = values,fill=ind)) +     geom_boxplot() + scale_fill_manual(values=c("#211c75",
+NativeBoxPlot <- ggplot(stack(dataNativeNokia), aes(x = ind, y = values,fill=ind)) +     geom_boxplot() + scale_fill_manual(values=c("#211c75",
                                                                                                           "#dd5b20",
                                                                                                           "#b13838",
                                                                                                           "#909f18",
                                                                                                           "#f75e5e",
                                                                                                           "#bf60dc","#42a67d","#4d6df4","#812c81","#ee720f"))
-print(Nativeplot + labs( title = "Native Apps on Nokia Device",y = "Value in Joules", x = "Application"))
-Webplot <- ggplot(stack(dataWebNokia), aes(x = ind, y = values,fill=ind)) +    geom_boxplot() + scale_fill_manual(values=c("#211c75",
+print(NativeBoxPlot + labs( title = "Native Apps on Nokia Device",y = "Value in Joules", x = "Application"))
+WebBoxplot <- ggplot(stack(dataWebNokia), aes(x = ind, y = values,fill=ind)) +    geom_boxplot() + scale_fill_manual(values=c("#211c75",
                                                                                                        "#dd5b20",
                                                                                                        "#b13838",
                                                                                                        "#909f18",
                                                                                                        "#f75e5e",
                                                                                                        "#bf60dc","#42a67d","#4d6df4","#812c81","#ee720f"))
-print(Webplot + labs( title = "Web Apps on Chrome, On Nokia Device",y = "Value in Joules", x = "Application"))
+print(WebBoxplot + labs( title = "Web Apps on Chrome, On Nokia Device",y = "Value in Joules", x = "Application"))
 #adding legends, color to the box plot and aligning the apps in order
 
+
+
+#violin for full datasets
+NativeViolinPlot <- ggplot(stack(dataNativeNokia), aes(x = ind, y = values,fill=ind)) +     geom_violin() + scale_fill_manual(values=c("#211c75",
+                                                                                                                                  "#dd5b20",
+                                                                                                                                  "#b13838",
+                                                                                                                                  "#909f18",
+                                                                                                                                  "#f75e5e",
+                                                                                                                                  "#bf60dc","#42a67d","#4d6df4","#812c81","#ee720f"))
+print(NativeViolinPlot + labs( title = "Native Apps on Nokia Device",y = "Value in Joules", x = "Application"))
+
+WebViolinplot <- ggplot(stack(dataWebNokia), aes(x = ind, y = values,fill=ind)) +    geom_violin() + scale_fill_manual(values=c("#211c75",
+                                                                                                                           "#dd5b20",
+                                                                                                                           "#b13838",
+                                                                                                                           "#909f18",
+                                                                                                                           "#f75e5e",
+                                                                                                                           "#bf60dc","#42a67d","#4d6df4","#812c81","#ee720f"))
+print(WebViolinplot + labs( title = "Web Apps on Chrome, On Nokia Device",y = "Value in Joules", x = "Application"))
+#adding legends, color to the box plot and aligning the apps in order
 
 
